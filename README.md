@@ -9,8 +9,8 @@ this is a color Clock Application in one file that shows the time with different
 
 
 
-* HTML5
-* CSS3
 * JavasScript
+* CSS3
+* HTML
 
 
